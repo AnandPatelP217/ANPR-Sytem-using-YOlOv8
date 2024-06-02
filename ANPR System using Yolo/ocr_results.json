@@ -1,0 +1,67 @@
+[
+    {
+        "Filename": "detected1.jpg",
+        "OCR_Text": "inn- oadill\n",
+        "Timestamp": "2024-04-09 22:23:59.181834+05:30"
+    },
+    {
+        "Filename": "detected10.jpg",
+        "OCR_Text": "",
+        "Timestamp": "2024-04-09 22:24:34.837784+05:30"
+    },
+    {
+        "Filename": "detected21.jpg",
+        "OCR_Text": "MP Of JO\nMP 08 D 4400\n\n",
+        "Timestamp": "2024-04-09 21:49:07.629700+05:30"
+    },
+    {
+        "Filename": "detected22.jpg",
+        "OCR_Text": "S MP 08 4400\n\u201cMP 08 D 4400\n",
+        "Timestamp": "2024-04-09 21:49:08.763498+05:30"
+    },
+    {
+        "Filename": "detected23.jpg",
+        "OCR_Text": "\u201cMP 08 D 4400\n[=MP 08 D 4400\n",
+        "Timestamp": "2024-04-09 21:49:09.953848+05:30"
+    },
+    {
+        "Filename": "detected24.jpg",
+        "OCR_Text": "[EMP 08 D 4400\n[=MP 08 D 4400)\n",
+        "Timestamp": "2024-04-09 21:49:11.066273+05:30"
+    },
+    {
+        "Filename": "detected25.jpg",
+        "OCR_Text": "MP 08 D 4400;\nMP 08 D 4400\n",
+        "Timestamp": "2024-04-09 21:49:12.133003+05:30"
+    },
+    {
+        "Filename": "detected27.jpg",
+        "OCR_Text": "XXBB KY 8888 |\n",
+        "Timestamp": "2024-04-09 21:49:17.354621+05:30"
+    },
+    {
+        "Filename": "detected29.jpg",
+        "OCR_Text": ": XXB8 XY8888\n",
+        "Timestamp": "2024-04-09 21:49:19.416406+05:30"
+    },
+    {
+        "Filename": "detected3.jpg",
+        "OCR_Text": "p-123-34\n",
+        "Timestamp": "2024-04-09 22:24:05.336532+05:30"
+    },
+    {
+        "Filename": "detected34.jpg",
+        "OCR_Text": "Aa\n",
+        "Timestamp": "2024-04-09 21:49:29.527320+05:30"
+    },
+    {
+        "Filename": "detected5.jpg",
+        "OCR_Text": "IND-123-34\n",
+        "Timestamp": "2024-04-09 22:24:09.659019+05:30"
+    },
+    {
+        "Filename": "detected6.jpg",
+        "OCR_Text": "IND-123-34)\n\n",
+        "Timestamp": "2024-04-09 22:24:11.363078+05:30"
+    }
+]
